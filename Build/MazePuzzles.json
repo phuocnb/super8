@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MazePuzzles.data.unityweb",
+"asmCodeUrl": "MazePuzzles.asm.code.unityweb",
+"asmMemoryUrl": "MazePuzzles.asm.memory.unityweb",
+"asmFrameworkUrl": "MazePuzzles.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
